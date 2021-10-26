@@ -19,7 +19,9 @@ const Hero = (props) => (
         <SectionText>
           Computer Science Student and a self taught Web Develoer
         </SectionText>
-        <Button onClick={props.handleClick}>Learn More</Button>
+        <Button onClick={() => (window.location.href = "/#about")}>
+          Learn More
+        </Button>
       </LeftSection>
     </Section>
   </>
