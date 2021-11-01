@@ -26,7 +26,7 @@ export const projects = [
     image: "/images/GoogleSearch2.gif",
     tags: [".NET", "C#", "Html", "JavaScript jQuery", "Bootsrap"],
     source: "https://github.com/shonhazan123/.Net-Google-Search",
-    visit: "https://google.com",
+    visit: "https://github.com/shonhazan123/.Net-Google-Search",
     id: 2,
   },
   {
@@ -35,8 +35,8 @@ export const projects = [
       "This is My First CRUD Project Using Vue.js,the to do list include the option to set a reminder for each task and store and fetch the data on Json-server",
     image: "/images/Task.gif",
     tags: ["Vue.js", "Node", "Json-server"],
-    source: "https://google.com",
-    visit: "https://google.com",
+    source: "https://github.com/shonhazan123/TaskApp",
+    visit: "https://github.com/shonhazan123/TaskApp",
     id: 3,
   },
 ];
